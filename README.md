@@ -1,5 +1,7 @@
 # write-ini-file
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zkochan/write-ini-file.svg)](https://greenkeeper.io/)
+
 > Stringify and write ini to a file atomically
 
 <!--@shields('npm', 'travis')-->
