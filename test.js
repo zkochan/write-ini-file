@@ -2,7 +2,7 @@ const path = require('path')
 const fs = require('fs')
 const test = require('tape')
 const tempfile = require('tempfile')
-const m = require('.')
+const m = require('write-ini-file')
 
 test('async', t => {
   const tmp = path.join(tempfile(), 'foo')
