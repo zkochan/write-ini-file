@@ -1,3 +1,5 @@
+> this project was moved to https://github.com/zkochan/packages/tree/master/write-ini-file
+
 # write-ini-file
 
 > Stringify and write ini to a file atomically
